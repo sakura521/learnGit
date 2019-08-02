@@ -12,6 +12,7 @@
 
 
 [![flume.log部分数据采集](index_files/3bda30b4-ee16-467b-91dc-393dfb5d0620.png "flume.log部分数据采集")](file:///C:/Users/Administrator/Documents/My%20Knowledge/temp/f878a635-22bb-497f-83aa-54e28d48d954/128/index_files/3bda30b4-ee16-467b-91dc-393dfb5d0620.png "flume.log部分数据采集")
+
     
   `
   //  "table":"mail"
@@ -23,4 +24,6 @@
     
  
  //  "table":"wechat"
-    发送数据{"latitude":"0.133824","imsi":"2574863532","accept_message":"","phone_mac":"xp-UN-Pk-gQ-FX-bH","device_mac":"iD-Hh-Yb-my-TI-DK","message_time":"1515665913","filename":"wechat_source0_32132130.txt","phone":"15905114827","absolute_filename":"/usr/chl/data/filedir_successful/2019-08-03/data/filedir/wechat_source0_32132130.txt","device_number":"19623005","imei":"7196220656","collect_time":"1539274920","id":"ab317942e76646798df8327624e13f61","send_message":"","object_username":"uXAe","table":"wechat","longitude":"31.625780","username":"iRoVLJaI"}到kafka成功`
+    发送数据{"latitude":"0.133824","imsi":"2574863532","accept_message":"","phone_mac":"xp-UN-Pk-gQ-FX-bH","device_mac":"iD-Hh-Yb-my-TI-DK","message_time":"1515665913","filename":"wechat_source0_32132130.txt","phone":"15905114827","absolute_filename":"/usr/chl/data/filedir_successful/2019-08-03/data/filedir/wechat_source0_32132130.txt","device_number":"19623005","imei":"7196220656","collect_time":"1539274920","id":"ab317942e76646798df8327624e13f61","send_message":"","object_username":"uXAe","table":"wechat","longitude":"31.625780","username":"iRoVLJaI"}到kafka成功
+    
+`
